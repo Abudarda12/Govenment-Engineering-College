@@ -1,0 +1,1 @@
+export const DB_NAME = "government_engineering_college";
